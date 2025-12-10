@@ -8,8 +8,8 @@ I am a second-year undergraduate at Sun Yat-sen University, majoring in Computer
   I am particularly interested in machine learning and deep learning, and regularly build projects to deepen my expertise.
 - **👀ASimpleVQVAE**  
   A tutorial repository focused on explaining the core concepts of Vector Quantized Variational Autoencoders (VQ-VAE).
-- **🧠NeuralBlock (Ongoing)**  
-  My current project, dedicated to research and experimentation with neural network architectures.
+- **👋OmniDexGrasp**  
+  Aimed at using image generation models to guide dexterous hand grasping
 
 ### 📫 Contact
 
