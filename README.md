@@ -1,23 +1,56 @@
-## 🦆 About Me
+<h1 align="center">Shuoyu Chen</h1>
+<p align="center">
+  <b>Undergraduate @ Sun Yat-sen University</b><br>
+  Computer Science and Technology · Class of 2024
+</p>
 
-I am a second-year undergraduate at Sun Yat-sen University, majoring in Computer Science and Engineering. My academic background includes foundational knowledge in C and C++, while my primary programming language is Python.
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Embodied%20Intelligence-4c8eda" />
+  <img src="https://img.shields.io/badge/Focus-Dexterous%20Manipulation-6aa84f" />
+  <img src="https://img.shields.io/badge/Field-Computer%20Vision-f6b26b" />
+</p>
 
-### 🧐 Projects & Research Interests
+---
 
-- **⚙️Machine Learning & Deep Learning**  
-  I am particularly interested in machine learning and deep learning, and regularly build projects to deepen my expertise.
-- **👀ASimpleVQVAE**  
-  A tutorial repository focused on explaining the core concepts of Vector Quantized Variational Autoencoders (VQ-VAE).
-- **👋OmniDexGrasp**  
-  Aimed at using image generation models to guide dexterous hand grasping
+## 👋 About Me
 
-### 📫 Contact
+I am **Shuoyu Chen**, an undergraduate student at the **School of Computer Science, Sun Yat-sen University**, majoring in **Computer Science and Technology**.
 
-For collaboration or discussion, feel free to reach out:
+Currently, I am conducting undergraduate research at the **iSEE Laboratory** of Sun Yat-sen University.
 
-Email: shuoyu_chen@qq.com
+My research focuses on:
 
-<!---
-Rain-Shuoyu/Rain-Shuoyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Embodied Intelligence**
+- **Robotic Dexterous Manipulation**
+- **Computer Vision**
+
+---
+
+## 🚀 Selected Work
+
+### [BiDexGrasp](https://frenkielm.github.io/BiDexGrasp.github.io/)
+Participated in **BiDexGrasp**, a project on **coordinated bimanual dexterous grasping** across objects with diverse geometries and sizes.  
+The project explores large-scale data construction and generation methods for dexterous dual-hand grasping.
+
+### [OmniDexGrasp](https://isee-laboratory.github.io/OmniDexGrasp/)
+Participated in **OmniDexGrasp**, a framework for **generalizable dexterous grasping** that integrates **foundation models** with **force feedback** for more robust robotic manipulation.
+
+---
+
+## 🔍 Research Interests
+
+- Embodied Intelligence
+- Dexterous Robotic Manipulation
+- Computer Vision
+
+---
+
+## 📫 Contact
+
+- Email: **[shuoyu_chen@qq.com](mailto:shuoyu_chen@qq.com)**
+
+---
+
+<p align="center">
+  <i>Building intelligent systems that can perceive and interact with the real world.</i>
+</p>
