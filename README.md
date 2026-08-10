@@ -35,6 +35,9 @@ The project explores large-scale data construction and generation methods for de
 ### [OmniDexGrasp](https://isee-laboratory.github.io/OmniDexGrasp/)
 Participated in **OmniDexGrasp**, a framework for **generalizable dexterous grasping** that integrates **foundation models** with **force feedback** for more robust robotic manipulation.
 
+### [DynamicManip](https://liaohr9.github.io/DynamicManip/)
+Co-author of **DynamicManip**, a static-to-dynamic augmentation pipeline that synthesizes diverse dynamic manipulation demonstrations from a single static demonstration and a dynamic-aware adaptive policy that adaptively adjusts its inference frequency according to task dynamics, enabling responsive and effective dynamic manipulation.
+
 ---
 
 ## 🔍 Research Interests
