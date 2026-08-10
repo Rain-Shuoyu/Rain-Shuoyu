@@ -32,7 +32,7 @@ My research focuses on:
 Participated in **BiDexGrasp**, a project on **coordinated bimanual dexterous grasping** across objects with diverse geometries and sizes.  
 The project explores large-scale data construction and generation methods for dexterous dual-hand grasping.
 
-### [OmniDexGrasp](https://isee-laboratory.github.io/OmniDexGrasp/)
+### [OmniDexGrasp](https://isee-laboratory.github.io/OmniDexGrasp/) ｜ICRA 2026｜
 Participated in **OmniDexGrasp**, a framework for **generalizable dexterous grasping** that integrates **foundation models** with **force feedback** for more robust robotic manipulation.
 
 ### [DynamicManip](https://liaohr9.github.io/DynamicManip/)
